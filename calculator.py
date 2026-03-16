@@ -16,3 +16,6 @@ def get_Abs(num):
 		return num
 	else:
 		return -num
+
+def getMedian(a, b):
+    return (a+b)/2
